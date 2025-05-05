@@ -46,7 +46,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayush-030&theme=onedark&title=Commits,Stars,Repositories,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src=["https://github-profile-trophy.vercel.app/?username=ayush-030&theme=onedark&column=7" alt="Trophies](https://github-profile-trophy.vercel.app/?username=ayush-030&theme=onedark&title=Commits,Stars,Repositories,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy))">
 </p>
 
 ---
