@@ -26,7 +26,10 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tableau,powerbi,python,java,cpp,react,nextjs,nodejs,express,mongodb,html,css,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,react,nextjs,nodejs,express,mongodb,html,css,js,git,github" />
+  <br>
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-blue?style=flat&logo=Power%20BI&logoColor=white)
+  ![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat&logo=tableau&logoColor=white)
 </p>
 
 ---
