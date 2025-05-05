@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+![MasterHead](https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif)
 
 <h1 align="center">
   Hey there👋, I'm Ayush Rawat
