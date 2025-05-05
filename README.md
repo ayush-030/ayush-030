@@ -1,5 +1,4 @@
-![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVmNXBhNWtxMWRnZ3QwZmhrMnJ5aG53ZTR2cGU5Zng0Z3UybGpoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif)
-
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">
   Hey there👋, I'm Ayush Rawat
 </h1>
