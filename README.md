@@ -1,6 +1,4 @@
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hey there 👋, I'm Ayush Rawat</h1>
 <h3 align="center">Full Stack Developer | Data Analyst | AI/ML Enthusiast</h3>
 
