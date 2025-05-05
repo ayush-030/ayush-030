@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
 <h1 align="center">Hey there 👋, I'm Ayush Rawat</h1>
 <h3 align="center">Full Stack Developer | Data Analyst | AI/ML Enthusiast</h3>
