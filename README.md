@@ -1,6 +1,4 @@
-
-<img src="https://pin.it/5n6aZSVzr" width="600" />
-
+![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVmNXBhNWtxMWRnZ3QwZmhrMnJ5aG53ZTR2cGU5Zng0Z3UybGpoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif)
 
 <h1 align="center">
   Hey there👋, I'm Ayush Rawat
