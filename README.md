@@ -1,4 +1,5 @@
-![MasterHead](https://pin.it/5n6aZSVzr)
+
+<img src="https://pin.it/5n6aZSVzr" width="600" />
 
 
 <h1 align="center">
