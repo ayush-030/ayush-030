@@ -28,7 +28,7 @@
 ### 🧠 Projects
 
 - 🔬 [**MedSafe**](https://github.com/ayush-030/MedSafe): Drug Interaction Prediction System using ML & Cheminformatics  
-- 💬 [**Real-time Chat App**](https://github.com/ayush-030): MERN + Socket.io + Firebase + Cloud Deployment  
+- 💬 [**Real-time Chat App**](https://github.com/ayush-030): MERN + Socket.io  
 - 📊 [**Sales Dashboard (Tableau)**](https://public.tableau.com/app/profile/ayush.rawat5326/viz/SalesPerformanceDashboardProject_17445604473210/SalesDashboard)  
 - 📁 [**Abortion Opinions EDA**](https://github.com/ayush-030/Abortion-Opinions-EDA)
 
