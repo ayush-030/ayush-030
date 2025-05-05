@@ -1,6 +1,5 @@
-<p align="center">
+
 ![MasterHead](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-</p>
 
 <h1 align="center">Hey there 👋, I'm Ayush Rawat</h1>
 <h3 align="center">Full Stack Developer | Data Analyst | AI/ML Enthusiast</h3>
