@@ -1,5 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-
+![MasterHead](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
 <h1 align="center">
   Hey there👋, I'm Ayush Rawat
