@@ -20,7 +20,7 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,react,nextjs,nodejs,express,mongodb,tailwind,html,css,js,git,github,firebase,postman,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,react,nextjs,nodejs,express,mongodb,html,css,js,git,github,postman" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayush-030&theme=onedark&column=7" alt="Trophies">
+  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayush-030&theme=onedark&title=Commits,Stars,Repositories,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 ---
