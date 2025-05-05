@@ -1,3 +1,15 @@
+<h1 align="center">
+  Hi 👋, I'm Ayush Rawat
+</h1>
+
+<h3 align="center">
+  A passionate Full-Stack Developer & AI Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;AI+%26+ML+Learner;Let's+build+something+awesome+💻" alt="Typing SVG" />
+</p>
+
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hey there 👋, I'm Ayush Rawat</h1>
 <h3 align="center">Full Stack Developer | Data Analyst | AI/ML Enthusiast</h3>
