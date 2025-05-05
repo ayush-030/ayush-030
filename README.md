@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="300" />
 </p>
 
 <h1 align="center">Hey there 👋, I'm Ayush Rawat</h1>
@@ -61,10 +61,4 @@
   <a href="mailto:ayushrawat521@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ayush-rawat-48422334a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/ayush-030"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Love+solving+problems+with+code;Building+smart+and+scalable+products;Always+learning+and+growing!" />
 </p>
