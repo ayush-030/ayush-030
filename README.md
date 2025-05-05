@@ -1,5 +1,5 @@
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 
-![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">
   Hey there👋, I'm Ayush Rawat
 </h1>
@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Data+Analyst;AI+%26+ML+Learner;Let's+build+something+awesome" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Data+Analyst;AI+%26+ML+Learner;Let's+build+something+awesome!" alt="Typing SVG" />
 </p>
 
 ---
