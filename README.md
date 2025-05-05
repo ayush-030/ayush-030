@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
 <h1 align="center">Hey there 👋, I'm Ayush Rawat</h1>
 <h3 align="center">Full Stack Developer | Data Analyst | AI/ML Enthusiast</h3>
 
@@ -11,7 +15,7 @@
 
 - 🎓 B.Tech CSE @ KR Mangalam University (2026)
 - 🔭 Last Worked on: **MedSafe - Drug Interaction Predictor**
-- 💬 Ask me about: **MERN Stack,, Python, Data Analysis**
+- 💬 Ask me about: **MERN Stack, Python, Data Analysis**
 - 🎯 Goals: Contribute to open-source AI tools & build impactful products
 - 📫 Contact me at: **ayushrawat521@gmail.com**
 
