@@ -1,4 +1,5 @@
-![MasterHead](https://media.giphy.com/media/0x8S0YlP8etbsVwzFS/giphy.gif)
+![MasterHead](https://media.giphy.com/media/1eC9iZlgEiiO0rh7lD/giphy.gif)
+
 <h1 align="center">
   Hey there👋, I'm Ayush Rawat
 </h1>
