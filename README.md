@@ -11,7 +11,7 @@
 
 - 🎓 B.Tech CSE @ KR Mangalam University (2026)
 - 🔭 Last Worked on: **MedSafe - Drug Interaction Predictor**
-- 💬 Ask me about: **MERN Stack, Data Analysis, Python**
+- 💬 Ask me about: **MERN Stack,, Python, Data Analysis**
 - 🎯 Goals: Contribute to open-source AI tools & build impactful products
 - 📫 Contact me at: **ayushrawat521@gmail.com**
 
@@ -46,7 +46,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src=["https://github-profile-trophy.vercel.app/?username=ayush-030&theme=onedark&column=7" alt="Trophies](https://github-profile-trophy.vercel.app/?username=ayush-030&theme=onedark&title=Commits,Stars,Repositories,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy))">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayush-030&theme=onedark&title=Commits,Stars,Repositories,PullRequest,Issues" />
 </p>
 
 ---
