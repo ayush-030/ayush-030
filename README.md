@@ -43,7 +43,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush-030&show_icons=true&theme=tokyonight" alt="ayush-030 GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-030&layout=compact&theme=tokyonight" alt="Top languages"/>
 </p>
 
