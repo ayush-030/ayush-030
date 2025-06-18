@@ -15,7 +15,7 @@
 
 ### 💡 About Me
 
-- 🎓 B.Tech CSE @ KR Mangalam University (2026)
+- 🎓 B.Tech CSE @ K.R. Mangalam University (2026)
 - 🔭 Last Worked on: **MedSafe - Drug Interaction Predictor**
 - 💬 Ask me about: **MERN Stack, Python, Data Analysis**
 - 🎯 Goals: Contribute to open-source AI tools & build impactful products
