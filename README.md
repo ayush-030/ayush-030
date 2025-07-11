@@ -19,7 +19,7 @@
 - 🔭 Last Worked on: **MedSafe - Drug Interaction Predictor**
 - 💬 Ask me about: **MERN Stack, Python, Data Analysis**
 - 🎯 Goals: Contribute to open-source AI tools & build impactful products
-- 📫 Contact me at: **ayushrawat521@gmail.com**
+- 📫 Contact me at: **rawat.ayush.work@gmail.com**
 
 ---
 
