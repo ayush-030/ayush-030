@@ -51,7 +51,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayush-030&theme=onedark&title=Commits,Stars,Repositories,PullRequest,Issues" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ayush-030&theme=onedark&title=Commits,Stars" />
 </p>
 
 ---
@@ -61,5 +61,4 @@
 <p align="center">
   <a href="mailto:rawat.ayush.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ayushrawat20/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/ayush-030"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
