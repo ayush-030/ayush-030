@@ -16,7 +16,7 @@
 ### 💡 About Me
 
 - 🎓 B.Tech CSE @ K.R. Mangalam University (2026)
-- 🔭 Last Worked on: **MedSafe - Drug Interaction Predictor**
+- 🔭 Currently working on: **Mentora - Unified Platform for Bridging Gaps in Student-Faculty Project Opportunities**
 - 💬 Ask me about: **MERN Stack, Python, Data Analysis**
 - 🎯 Goals: Contribute to open-source AI tools & build impactful products
 - 📫 Contact me at: **rawat.ayush.work@gmail.com**
