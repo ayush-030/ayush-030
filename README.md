@@ -4,11 +4,11 @@
 </h1>
 
 <h3 align="center">
-  A passionate Full-Stack Developer & Data Analyst
+  A passionate Full-Stack Developer & Data Scientist
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Data+Analyst;AI+%26+ML+Learner;Let's+build+something+awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Data+Scientist;AI+%26+ML+Learner;Let's+build+something+awesome!" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 - 🎓 B.Tech CSE @ K.R. Mangalam University (2026)
 - 🔭 Currently working on: **Mentora - Unified Platform for Bridging Gaps in Student-Faculty Project Opportunities**
-- 💬 Ask me about: **MERN Stack, Python, Data Analysis**
+- 💬 Ask me about: **MERN Stack, Python, Data Science**
 - 🎯 Goals: Contribute to open-source AI tools & build impactful products
 - 📫 Contact me at: **rawat.ayush.work@gmail.com**
 
