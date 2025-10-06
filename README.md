@@ -67,6 +67,18 @@
 
 ---
 
+## 🎓 Certifications
+
+🎖️ [![Full Stack Bootcamp & Internship (IPRP 2.0)](https://img.shields.io/badge/Full%20Stack%20Bootcamp%20%26%20Internship-IPRP%202.0-blue)](https://github.com/ayush-030/Full-Stack-Bootcamp-Certification/blob/main/Ayush%20Rawat%20Full%20Stack%20Bootcamp%20Certificate%20.pdf)
+
+🎖️ [![Tata Group - Data Visualisation: Empowering Business with Effective Insights](https://img.shields.io/badge/Tata%20Group-Data%20Visualisation-orange)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_7twiXk5j5kKpFxZ2z_1739970770209_completion_certificate.pdf)
+
+🎖️ [![IIT Mandi Drone Training Program](https://img.shields.io/badge/IIT%20Mandi-Drone%20Training%20Program-green)](https://github.com/ayush-030/IIT-Mandi-Drone-Certification/blob/main/Ayush_Rawat_IITMandi_Drone_Certificate.pdf)
+
+🎖️ [![Ultimate Web Designer & Web Developer Course](https://img.shields.io/badge/Udemy-Ultimate%20Web%20Designer%20%26%20Developer-red)](https://www.udemy.com/certificate/UC-04716643-6cf7-4a7f-b52c-7aad5e765884/)
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
