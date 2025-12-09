@@ -60,7 +60,7 @@
 
 ## 🧠 Projects
 
-- 🧩 [**Mentora – Project Matching & Collaboration Platform**](https://github.com/ayush-030/Mentora-Connect): Student–Faculty–Industry Collaboration Platform (React + Flask + Supabase) 
+- 🧩 [**Mentora – University Project Matching & Collaboration Platform**](https://github.com/ayush-030/Mentora-Connect): Student–Faculty–Industry Collaboration Platform (React + Flask + Supabase) 
 - 🔬 [**MedSafe**](https://github.com/ayush-030/MedSafe): Drug Interaction Prediction System using ML & Cheminformatics  
 - 💬 [**Real-time Chat App**](https://github.com/ayush-030): MERN + Socket.io  
 - 📊 [**Sales Dashboard (Tableau)**](https://public.tableau.com/app/profile/ayush.rawat5326/viz/SalesPerformanceDashboardProject_17445604473210/SalesDashboard)  
